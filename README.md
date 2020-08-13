@@ -8,7 +8,9 @@ A shorter version of this paper has been accepted in [NeurIPS 2019 Workshop on M
 The video presentation of our paper is provided in this [youtube link](https://www.youtube.com/watch?v=oKBu90fuTgI).
 
 ## Step 1: Training of the RBF layer
-Train RBF layer using `rbf_training.py`. Dependency: Keras + Tensorflow
+Train RBF layer using `rbf_training.py`. Dependency: `Keras + Tensorflow`
+
+
 It allows to train the RBF layer using Tensorflow in a GPU. 
 However, now we need to specify the required number of RBF filters as a hyper-parameter.
 Follow the instruction provided inline.
