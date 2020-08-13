@@ -1,5 +1,7 @@
 # Approximate Manifold Defense Against Multiple Adversarial Perturbations (updated version)
-This version removes numba dependency to train the RBF layer. Older version of code can be found [[here]](https://github.com/jayjaynandy/RBF-CNN).
+This version removes numba dependency to train the RBF layer. 
+It allows to train the RBF layer using Tensorflow in a GPU.
+Older version of code can be found [[here]](https://github.com/jayjaynandy/RBF-CNN).
 
 A shorter version of this paper has been accepted in [NeurIPS 2019 Workshop on Machine Learning with Guarantees](https://sites.google.com/view/mlwithguarantees/accepted-papers) 
 [[pdf]](https://drive.google.com/file/d/1I2WKHg-s7wJgG21apg3FhxaYzzFl4vgt/view), 
